@@ -1,2 +1,6 @@
 # Sezgisel-Matematik
 Patika Dev. Sezgisel Matematik İçeriği
+
+Sezgici matematikte her türlü matematiksel nesne bir aklın ürünüdür dolayısıyla nesnenin var olma olanağı da nesnenin oluşturulabilme olanağına denktir. Bu görüş, bir nesnenin varlığının, nesnenin var olmamasının bir çelişki teşkil etmesine dayanarak ıspatlanabileceğini savunan klasik yaklaşıma karşıttır ve sezgicilere göre bu klasik yaklaşım geçersizdir. Nesnenin var olmamasının bir çelişki yaratması nesnenin var olduğuna ilişkin oluşturmacı bir kanıtın var olabileceği anlamına gelmez. Bu yaklaşımıyla sezgicilik oluşturmacı matematiğin bir türüdür. Bu yazımda Integralden bahsedeceğim.
+
+İntegral, verilen bir f(x) fonksiyonunu türev kabul eden F(x) fonksiyonunun bulunması olarak yapılabilir. F(x) fonksiyonuna f(x) fonksiyonunun integrali veya ilkeli denir.Bir eksen takımında gösterilen f(x) göndermesinin altında kalan a < x < b aralığındaki alan, integral yardımıyla hesaplanabilir. Bu amaçla alan küçük dikdörtgenlere bölünerek, bunların alanı hesap edilip toplanır. Dikdörtgen sayısı arttıkça toplam eğri altındaki alan, alanın değerine yaklaşır ve integralin tam değeri bulunmuş olur. Bu toplama Riemann toplamı denir. İntegralin Riemann anlamındaki tanımı Riemann toplamındaki bölüntü sayısı olan n nin bir limit içerisinde sonsuza götürülmesiyle elde edilir.
